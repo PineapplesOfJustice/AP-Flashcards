@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-image: url("http://trickvilla.com/wp-content/uploads/Wood-Background-Photo.jpg");
+    background-image: url("Images/Background/Wood Background.jpg");
     background-size: cover;
 }
 
@@ -16,7 +16,7 @@ h2 {
     width:600px;
     height: 200px;
     padding-top: 118px;
-    background-image: url("https://qph.ec.quoracdn.net/main-qimg-4618d3a62d16331943eb7679268820fc-c");
+    background-image: url("Images/Background/Flashcard Background.jpg");
     background-size: cover;
     margin: auto;
     margin-bottom: 30px;
